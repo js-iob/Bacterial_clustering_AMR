@@ -21,7 +21,7 @@ In our cases Random forest algorithm worked better than the other algorithms. Th
 
 Multi-label perceptron model:
 The calculate_seq_features.py script was used to calculate the nucleotide features such as GC content and mononucleotide counts of each bacterial strain.
-multi_label_classification_model.py script was then used to predict the antibacterial resistance of each bacterial strain.
+multilabel_classification_model.py script was then used to predict the antibacterial resistance of each bacterial strain.
 
 
 
